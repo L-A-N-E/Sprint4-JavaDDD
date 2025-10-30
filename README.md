@@ -10,6 +10,28 @@ API RESTful desenvolvida em **Java com Spring Boot** para o projeto Macroscan. O
 * **Banco de Dados Embarcado**: Utiliza **H2 Database** em modo arquivo para facilitar o ambiente de desenvolvimento, sem necessidade de configurar um banco de dados externo.
 * **Validação de Dados**: Garante a integridade dos dados recebidos através do Spring Validation.
 
+## 🖥️ Aplicação Frontend
+
+Este projeto backend serve como a API para uma aplicação frontend de interface simples, desenvolvida com HTML, CSS e JavaScript.
+
+* **Link para o repositório do Frontend:** [https://github.com/L-A-N-E/Site_frontend-JavaS4](https://github.com/L-A-N-E/Site_frontend-JavaS4)
+
+### Como Executar o Frontend
+
+Para rodar a aplicação frontend, você precisará do [Visual Studio Code](https://code.visualstudio.com/) e da extensão [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
+
+1.  **Clone o repositório do frontend:**
+    ```sh
+    git clone [https://github.com/L-A-N-E/Site_frontend-JavaS4.git](https://github.com/L-A-N-E/Site_frontend-JavaS4.git)
+    ```
+
+2.  **Abra a pasta do projeto no VS Code.**
+
+3.  **Inicie o Live Server:**
+    Clique com o botão direito no arquivo `index.html` e selecione a opção "Open with Live Server".
+
+> **⚠️ Importante:** Para que o frontend funcione corretamente e possa se comunicar com a API, o projeto backend (este repositório) **deve estar em execução** na porta `8080`.
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
