@@ -22,7 +22,7 @@ Para rodar a aplicação frontend, você precisará do [Visual Studio Code](http
 
 1.  **Clone o repositório do frontend:**
     ```sh
-    git clone [https://github.com/L-A-N-E/Site_frontend-JavaS4.git](https://github.com/L-A-N-E/Site_frontend-JavaS4.git)
+    git clone https://github.com/L-A-N-E/Site_frontend-JavaS4.git
     ```
 
 2.  **Abra a pasta do projeto no VS Code.**
@@ -65,7 +65,7 @@ Siga os passos abaixo para executar o projeto localmente.
 
 1.  **Clone o repositório:**
     ```sh
-    git clone [https://github.com/L-A-N-E/Sprint4-JavaDDD.git](https://github.com/L-A-N-E/Sprint4-JavaDDD.git)
+    git clone https://github.com/L-A-N-E/Sprint4-JavaDDD.git
     ```
 
 2.  **Navegue até o diretório do projeto:**
