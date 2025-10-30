@@ -97,6 +97,7 @@ Para rodar a suíte de testes automatizados e garantir que tudo está funcionand
 
 ```sh
 mvn test
+```
 
 ### 🔑 Configuração de Segurança (JWT)
 
